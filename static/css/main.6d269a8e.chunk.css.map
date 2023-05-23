@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/GoodsList.scss"],"names":[],"mappings":"AAAA,OAEI,SAAqB,CAFzB,SAMI,WAAqB,CANzB,QAUI,UAAqB","file":"main.6d269a8e.chunk.css","sourcesContent":["li {\n  &.red {\n    color: rgb(255, 0, 0);\n  }\n\n  &.green {\n    color: rgb(0, 128, 0);\n  }\n\n  &.blue {\n    color: rgb(0, 0, 255);\n  }\n}"]}
